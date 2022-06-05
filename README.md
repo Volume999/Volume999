@@ -5,4 +5,5 @@
 - Skills in SQL, Python and C#.
 
 Email: Volume99917@gmail.com
-Linkedin: linkedin.com/in/alibek-cholponbaev/
+
+[Linkedin](https://www.linkedin.com/in/alibek-cholponbaev/)
